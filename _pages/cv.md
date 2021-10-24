@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Geology, University of Pune, India, 2007
+* M.Sc. in Environmental Sciences, University of Pune, India, 2009
+* Ph.D in Earth System Science, University of California, Irvine, 2016
 
 Work experience
 ======
