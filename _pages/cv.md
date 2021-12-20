@@ -1,7 +1,7 @@
 ---
 title: "CV"
 # <embed src="/files/cv_overleaf.pdf" type="application/pdf" />
-<object data="../files/cv_overleaf.pdf" type='application/pdf'></object>
+<object data="hrishikeshac.github.io/files/cv_overleaf.pdf" type='application/pdf'></object>
 ---
 
 <!-- {% include base_path %} -->
