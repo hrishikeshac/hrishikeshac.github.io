@@ -1,6 +1,6 @@
 ---
 title: "CV"
-<embed src="../files/cv_overleaf.pdf" type="application/pdf" />
+<embed src="/files/cv_overleaf.pdf" type="application/pdf" />
 
 ---
 
