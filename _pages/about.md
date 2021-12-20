@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ Well hello there! I am Hrishi. I am a Research Scientist at Global Institute for
 
 My research interests comprise studying large-scale water cycle changes, investigating their climatic- and human- causes, and understanding the implications of these changes on other spheres of the earth system, such as the ocean and the cryopshere, as well as the society and ecosystems. Through my research, I attempt to address questions such as ‘How does land hydrology influence the sea level?’, 'What would intensification of the water cycle look like?', ‘How does climate variability influence land water storage?’, and ‘How big are the human-driven hydrologic changes in the context of natural climate variability?’. To address these questions, I combine multiple approaches such as remote sensing, field observations, and climate-model simulations and outputs. 
 
-The inpiration for my research comes from my love and appreciation of the natural world around me. I absolutely love being in the remote backcountry, sometimes doing nothing, sometimes watercolor painting, and other times trail running, mountain biking, hiking, backpacking, rock climbing, mountaineering and backcountry skiing. 
+The inspiration for my research comes from my love and appreciation of the natural world around me. I absolutely love being in the remote backcountry, sometimes doing nothing, sometimes watercolor painting, and other times trail running, mountain biking, hiking, backpacking, rock climbing, mountaineering and backcountry skiing. 
 
 
 <!-- mainly study large-scale changes in the hydrologic cycle
