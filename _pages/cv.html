@@ -1,0 +1,17 @@
+---
+layout: single
+title: "Academic CV"
+permalink: /cv/
+author_profile: true
+
+---
+<object data="../files/cv_overleaf.pdf" width="1200" height="1000" type='application/pdf'></object>
+
+<!-- <embed src="https://belovanna.github.io/assets/download/sample.pdf" type="application/pdf" /> -->
+{% include base_path %}
+
+
+{% for post in site.cv %}
+  {% include archive-single.html %}
+{% endfor %}
+

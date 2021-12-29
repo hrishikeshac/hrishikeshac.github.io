@@ -6,7 +6,7 @@ main:
   # - title: "Talks"
   #   url: /talks/
 
-  - title: "CV"
+  - title: "Academic CV"
     url: /cv/
     
   # - title: "Teaching"
@@ -15,8 +15,8 @@ main:
   - title: "Art Portfolio"
     url: /portfolio/
 
-  - title: "Blog"
-    url: /year-archive/
+  # - title: "Blog"
+  #   url: /year-archive/
 
 
 
