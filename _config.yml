@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Hrishi"
   avatar           : "profile.JPEG"
-  bio              : "Earth System Scientist, Struggling Artist"
+  bio              : "Earth System Scientist" # \n\nArt Enthusiast"
   location         : "Pune, India"
   employer         :
   pubmed           :
