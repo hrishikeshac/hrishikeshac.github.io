@@ -1,5 +1,6 @@
 ---
 title: ""
+# "These images are free to use for personal and non-profit use. To download high resolution, right click on the image and select 'Save Image As'."
 gallery:
   - url: ../images/photo_portfolio/160726DSC_7023-Edit.jpg
     image_path: ../images/photo_portfolio/160726DSC_7023-Edit.jpg
@@ -25,6 +26,18 @@ gallery:
     image_path: ../images/photo_portfolio/171229P1030375-Edit-export.jpg
     title: "Elk Herd, National Elk Refuge, Jackson Hole, Wyoming, USA"
   
+  - url: ../images/photo_portfolio/160805DSC_7490-Edit.jpg
+    image_path: ../images/photo_portfolio/160805DSC_7490-Edit.jpg
+    title: "Coopers Hawk, Boulder, Colorado, USA"      
+
+  - url: ../images/photo_portfolio/160904_DSC7851.jpg
+    image_path: ../images/photo_portfolio/160904_DSC7851.jpg
+    title: "Pronghorn, Yellowstone National Park, Wyoming, USA"    
+
+  - url: ../images/photo_portfolio/160904_DSC7906.jpg
+    image_path: ../images/photo_portfolio/160904_DSC7906.jpg
+    title: "Plains Bison, Yellowstone National park, Wyoming, USA"      
+    
   - url: ../images/photo_portfolio/180101_DSC1205-Edit-export.jpg
     image_path: ../images/photo_portfolio/180101_DSC1205-Edit-export.jpg
     title: "Grand Tetons Under First Ray of the Year, Grand Teton National Park, Wyoming, USA"
@@ -65,6 +78,10 @@ gallery:
     image_path: ../images/photo_portfolio/161124P1000683-Edit-export.jpg
     title: "Notchtop Mountain in Blowing Snow, Rocky Mountain National Park, Colorado, USA"
 
+  - url: ../images/photo_portfolio/121225DSC_0708-Edit-2.jpg
+    image_path: ../images/photo_portfolio/121225DSC_0708-Edit-2.jpg
+    title: "Balboa Pier in blue hour, Newport Beach, California, USA"
+
   - url: ../images/photo_portfolio/170702_DSC9974-Edit.jpg
     image_path: ../images/photo_portfolio/170702_DSC9974-Edit.jpg
     title: "The Milky Way over Maroon Bells, Aspen, Colorado, USA"      
@@ -77,113 +94,98 @@ gallery:
     image_path: ../images/photo_portfolio/160905_DSC8027-Edit-Edit.jpg
     title: "The Grand Canyon of Yellowstone, Yellowstone National Park, Wyoming, USA"    
 
-  - url: ../images/photo_portfolio/121225DSC_0708-Edit-2.jpg
-    image_path: ../images/photo_portfolio/121225DSC_0708-Edit-2.jpg
-    title: "Balboa Pier in blue hour, Newport Beach, California, USA"
+  - url: ../images/photo_portfolio/140720DSC_4833-Edit-Edit.jpg
+    image_path: ../images/photo_portfolio/140720DSC_4833-Edit-Edit.jpg
+    title: "Narrows, Zion National Park, Utah, USA"      
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""      
+  - url: ../images/photo_portfolio/170904P1020263-Edit.jpg
+    image_path: ../images/photo_portfolio/170904P1020263-Edit.jpg
+    title: "Sunrise over Snowmass Mountain, Colorado, USA"     
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""     
+  - url: ../images/photo_portfolio/170325_DSC8702-Edit.jpg
+    image_path: ../images/photo_portfolio/170325_DSC8702-Edit.jpg
+    title: "Lizard Head, Telluride, Colorado, USA"             
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""             
+  - url: ../images/photo_portfolio/170402P1010166.jpg
+    image_path: ../images/photo_portfolio/170402P1010166.jpg
+    title: "Ski tracks over Brainard Lake, Colorado, USA"     
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""      
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""     
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""     
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""   
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""    
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""      
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""      
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""     
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""     
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""   
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""    
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""      
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""      
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""     
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""     
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""   
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""    
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""      
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""      
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""     
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""     
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""   
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""    
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""      
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""      
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""     
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""     
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""   
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""    
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""      
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""      
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""     
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""     
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""   
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""    
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""      
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""      
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""     
 
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""     
-
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""    
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""      
-
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""     
-
-  - url: ../images/photo_portfolio/.jpg
-    image_path: ../images/photo_portfolio/.jpg
-    title: ""   
+  # - url: ../images/photo_portfolio/.jpg
+  #   image_path: ../images/photo_portfolio/.jpg
+  #   title: ""   
 ---
 {% include gallery caption="" %}
 {% include base_path %}
