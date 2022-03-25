@@ -2,8 +2,8 @@
 title: ""
 # "These images are free to use for personal and non-profit use. To download high resolution, right click on the image and select 'Save Image As'."
 gallery:
-  - url: ../images/sketch_portfolio/yellowstone_waterfall.JPG
-    image_path: ../images/sketch_portfolio/yellowstone_waterfall.JPG
+  - url: ../images/sketch_portfolio/yellowstone_waterfall.jpg
+    image_path: ../images/sketch_portfolio/yellowstone_waterfall.jpg
     title: "The Grand Canyon of Yellowstone, Yellowstone National Park, Wyoming, USA, 2020 (Ink and Watercolor)" 
   
   - url: ../images/sketch_portfolio/raspberry.JPG
@@ -30,10 +30,6 @@ gallery:
     image_path: ../images/sketch_portfolio/mt_humphreys.JPG
     title: "View from Mt Humphreys, Sierra Nevada, California, USA, 2019 (Ink and Watercolor)"      
 
-  - url: ../images/sketch_portfolio/160904_DSC7851.JPG
-    image_path: ../images/sketch_portfolio/160904_DSC7851.JPG
-    title: "Pronghorn, Yellowstone National Park, Wyoming, USA"    
-
   - url: ../images/sketch_portfolio/the_eye_jtree.JPG
     image_path: ../images/sketch_portfolio/the_eye_jtree.JPG
     title: "The Eye, Joshua Tree National Park, California, USA, 2020 (Plein Air, Direct Watercolor)"      
@@ -58,8 +54,8 @@ gallery:
     image_path: ../images/sketch_portfolio/first_trad.JPG
     title: "Apple Valley crag, California, USA, 2019 (Direct Watercolor)"
   
-  - url: ../images/sketch_portfolio/malibu_climbing.JPG
-    image_path: ../images/sketch_portfolio/malibu_climbing.JPG
+  - url: ../images/sketch_portfolio/malibu_climbing.jpg
+    image_path: ../images/sketch_portfolio/malibu_climbing.jpg
     title: "Malibu Creek State Park, California, USA, 2019 (Ink and Watercolor)"
   
   - url: ../images/sketch_portfolio/the_capitol.JPG
@@ -74,25 +70,13 @@ gallery:
     image_path: ../images/sketch_portfolio/kaweah.JPG
     title: "The Kaweah massif, Sierra Nevada, California, USA, 2020 (Watercolor)"
   
-  - url: ../images/sketch_portfolio/DC_lincoln_memorial_watercolors.JPG
-  image_path: ../images/sketch_portfolio/DC_lincoln_memorial_watercolors.JPG
+  - url: ../images/sketch_portfolio/DC_lincoln_memorial_watercolors.jpeg
+  image_path: ../images/sketch_portfolio/DC_lincoln_memorial_watercolors.jpeg
   title: "The View from the Lincoln Memorial, Washington D. C., USA, 2019 (Watercolor)"     
 
   - url: ../images/sketch_portfolio/backbone_fine_brush.JPG
     image_path: ../images/sketch_portfolio/backbone_fine_brush.JPG
-    title: "Backbone Trail, Malibu, California, USA, 2020 (Direct Watercolor)"
-
-  - url: ../images/sketch_portfolio/121225DSC_0708-Edit-2.JPG
-    image_path: ../images/sketch_portfolio/121225DSC_0708-Edit-2.JPG
-    title: "Balboa Pier in blue hour, Newport Beach, California, USA"
-
-  - url: ../images/sketch_portfolio/170702_DSC9974-Edit.JPG
-    image_path: ../images/sketch_portfolio/170702_DSC9974-Edit.JPG
-    title: "The Milky Way over Maroon Bells, Aspen, Colorado, USA"      
-
-  - url: ../images/sketch_portfolio/170519_DSC9584-Edit.JPG
-    image_path: ../images/sketch_portfolio/170519_DSC9584-Edit.JPG
-    title: "Flatiorns in a May Storm, Boulder, Colorado, USA"     
+    title: "Backbone Trail, Malibu, California, USA, 2020 (Direct Watercolor)" 
 
   - url: ../images/sketch_portfolio/gandhiji_pencil.JPG
     image_path: ../images/sketch_portfolio/gandhiji_pencil.JPG
@@ -118,16 +102,16 @@ gallery:
     image_path: ../images/sketch_portfolio/nude_pencil.JPG
     title: "Nude, 2005 (Graphite)"     
 
-  - url: ../images/sketch_portfolio/nude_pencil.JPG
-    image_path: ../images/sketch_portfolio/nude_pencil.JPG
+  - url: ../images/sketch_portfolio/nude.JPG
+    image_path: ../images/sketch_portfolio/nude.JPG
     title: "Nude, 2020 (Direct Watercolor)"   
 
-  - url: ../images/sketch_portfolio/nose.JPG
-    image_path: ../images/sketch_portfolio/nose.JPG
+  - url: ../images/sketch_portfolio/nose.jpg
+    image_path: ../images/sketch_portfolio/nose.jpg
     title: "Nose, 2020 (Direct Watercolor)"      
 
-  - url: ../images/sketch_portfolio/parvati.JPG
-    image_path: ../images/sketch_portfolio/parvati.JPG
+  - url: ../images/sketch_portfolio/parvati.jpg
+    image_path: ../images/sketch_portfolio/parvati.jpg
     title: "Parvati, Pune, India, 2021 (Plein Air, Direct Watercolor)"     
 
   - url: ../images/sketch_portfolio/eaton_canyon.JPG
