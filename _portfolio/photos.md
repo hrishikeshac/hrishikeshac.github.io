@@ -145,45 +145,45 @@ gallery:
     image_path: ../images/sketch_portfolio/the_eye_jtree.JPG
     title: "The Eye, Joshua Tree National Park, California, USA, 2020 (Plein Air, Direct Watercolor)"      
     
-  # - url: ../images/sketch_portfolio/eccho_cliffs.JPG
-  #   image_path: ../images/sketch_portfolio/eccho_cliffs.JPG
-  #   title: "Echo Cliffs, Malibu, California, USA, 2020 (Direct Watercolor)"
+  - url: ../images/sketch_portfolio/eccho_cliffs.JPG
+    image_path: ../images/sketch_portfolio/eccho_cliffs.JPG
+    title: "Echo Cliffs, Malibu, California, USA, 2020 (Direct Watercolor)"
   
-  # - url: ../images/sketch_portfolio/10th_mountain_div_skiers.JPG
-  #   image_path: ../images/sketch_portfolio/10th_mountain_div_skiers.JPG
-  #   title: "Army Skiers, 10th Mountain Division, Colorado, USA, 2013 (Ink and Watercolor)"
+  - url: ../images/sketch_portfolio/10th_mountain_div_skiers.JPG
+    image_path: ../images/sketch_portfolio/10th_mountain_div_skiers.JPG
+    title: "Army Skiers, 10th Mountain Division, Colorado, USA, 2013 (Ink and Watercolor)"
   
-  # - url: ../images/sketch_portfolio/agu_eos.jpg
-  #   image_path: ../images/sketch_portfolio/agu_eos.jpg
-  #   title: "Mount Kinabalu, Malaysia, 2019 (Ink and Watercolor)"
+  - url: ../images/sketch_portfolio/agu_eos.jpg
+    image_path: ../images/sketch_portfolio/agu_eos.jpg
+    title: "Mount Kinabalu, Malaysia, 2019 (Ink and Watercolor)"
   
-  # - url: ../images/sketch_portfolio/apple_valley_sports.JPG
-  #   image_path: ../images/sketch_portfolio/apple_valley_sports.JPG
-  #   title: "Apple Valley crag, California, USA, 2020 (Direct Watercolor)"
+  - url: ../images/sketch_portfolio/apple_valley_sports.JPG
+    image_path: ../images/sketch_portfolio/apple_valley_sports.JPG
+    title: "Apple Valley crag, California, USA, 2020 (Direct Watercolor)"
   
-  # - url: ../images/sketch_portfolio/first_trad.JPG
-  #   image_path: ../images/sketch_portfolio/first_trad.JPG
-  #   title: "Apple Valley crag, California, USA, 2019 (Direct Watercolor)"
+  - url: ../images/sketch_portfolio/first_trad.JPG
+    image_path: ../images/sketch_portfolio/first_trad.JPG
+    title: "Apple Valley crag, California, USA, 2019 (Direct Watercolor)"
   
-  # - url: ../images/sketch_portfolio/malibu_climbing.jpg
-  #   image_path: ../images/sketch_portfolio/malibu_climbing.jpg
-  #   title: "Malibu Creek State Park, California, USA, 2019 (Ink and Watercolor)"
+  - url: ../images/sketch_portfolio/malibu_climbing.jpg
+    image_path: ../images/sketch_portfolio/malibu_climbing.jpg
+    title: "Malibu Creek State Park, California, USA, 2019 (Ink and Watercolor)"
   
-  # - url: ../images/sketch_portfolio/the_capitol.JPG
-  #   image_path: ../images/sketch_portfolio/the_capitol.JPG
-  #   title: "The Capitol, Washington D.C., USA, 2019 (Plein Air, Direct Watercolor)"
+  - url: ../images/sketch_portfolio/the_capitol.JPG
+    image_path: ../images/sketch_portfolio/the_capitol.JPG
+    title: "The Capitol, Washington D.C., USA, 2019 (Plein Air, Direct Watercolor)"
   
-  # - url: ../images/sketch_portfolio/pan_sleeping_beauty.JPG
-  #   image_path: ../images/sketch_portfolio/pan_sleeping_beauty.JPG
-  #   title: "Pantalaimon sleeping, 2019 (Plein Air, Direct Watercolor)"
+  - url: ../images/sketch_portfolio/pan_sleeping_beauty.JPG
+    image_path: ../images/sketch_portfolio/pan_sleeping_beauty.JPG
+    title: "Pantalaimon sleeping, 2019 (Plein Air, Direct Watercolor)"
   
-  # - url: ../images/sketch_portfolio/kaweah.JPG
-  #   image_path: ../images/sketch_portfolio/kaweah.JPG
-  #   title: "The Kaweah massif, Sierra Nevada, California, USA, 2020 (Watercolor)"
+  - url: ../images/sketch_portfolio/kaweah.JPG
+    image_path: ../images/sketch_portfolio/kaweah.JPG
+    title: "The Kaweah massif, Sierra Nevada, California, USA, 2020 (Watercolor)"
   
-  # - url: ../images/sketch_portfolio/DC_lincoln_memorial_watercolors.jpeg
-  # image_path: ../images/sketch_portfolio/DC_lincoln_memorial_watercolors.jpeg
-  # title: "The View from the Lincoln Memorial, Washington D. C., USA, 2019 (Watercolor)"     
+  - url: ../images/sketch_portfolio/DC_lincoln_memorial_watercolors.jpeg
+  image_path: ../images/sketch_portfolio/DC_lincoln_memorial_watercolors.jpeg
+  title: "The View from the Lincoln Memorial, Washington D. C., USA, 2019 (Watercolor)"     
 
   # - url: ../images/sketch_portfolio/backbone_fine_brush.JPG
   #   image_path: ../images/sketch_portfolio/backbone_fine_brush.JPG
