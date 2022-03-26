@@ -2,6 +2,11 @@
 title: ""
 # "These images are free to use for personal and non-profit use. To download high resolution, right click on the image and select 'Save Image As'."
 gallery:
+
+  - url: ../images/photo_portfolio/160726DSC_7023-Edit.jpg
+    image_path: ../images/photo_portfolio/160726DSC_7023-Edit.jpg
+    title: "Conifers in the mist, Seward, Alaska, USA"
+    
   - url: ../images/sketch_portfolio/yellowstone_waterfall.jpg
     image_path: ../images/sketch_portfolio/yellowstone_waterfall.jpg
     title: "The Grand Canyon of Yellowstone, Yellowstone National Park, Wyoming, USA, 2020 (Ink and Watercolor)" 
