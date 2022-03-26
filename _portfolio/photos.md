@@ -182,68 +182,70 @@ gallery:
     title: "The Kaweah massif, Sierra Nevada, California, USA, 2020 (Watercolor)"
   
   - url: ../images/sketch_portfolio/DC_lincoln_memorial_watercolors.jpeg
-  image_path: ../images/sketch_portfolio/DC_lincoln_memorial_watercolors.jpeg
-  title: "The View from the Lincoln Memorial, Washington D. C., USA, 2019 (Watercolor)"     
+    image_path: ../images/sketch_portfolio/DC_lincoln_memorial_watercolors.jpeg
+    title: "The View from the Lincoln Memorial, Washington D. C., USA, 2019 (Watercolor)"     
 
-  # - url: ../images/sketch_portfolio/backbone_fine_brush.JPG
-  #   image_path: ../images/sketch_portfolio/backbone_fine_brush.JPG
-  #   title: "Backbone Trail, Malibu, California, USA, 2020 (Direct Watercolor)" 
+  - url: ../images/sketch_portfolio/backbone_fine_brush.JPG
+    image_path: ../images/sketch_portfolio/backbone_fine_brush.JPG
+    title: "Backbone Trail, Malibu, California, USA, 2020 (Direct Watercolor)" 
 
-  # - url: ../images/sketch_portfolio/gandhiji_pencil.JPG
-  #   image_path: ../images/sketch_portfolio/gandhiji_pencil.JPG
-  #   title: "Mahatma Gandhi, 2002 (Graphite)"    
+  - url: ../images/sketch_portfolio/gandhiji_pencil.JPG
+    image_path: ../images/sketch_portfolio/gandhiji_pencil.JPG
+    title: "Mahatma Gandhi, 2002 (Graphite)"    
 
-  # - url: ../images/sketch_portfolio/act_lafd.JPG
-  #   image_path: ../images/sketch_portfolio/act_lafd.JPG
-  #   title: "Altadena Crest Trail, Altadena, USA, 2020 (Ink and Watercolor)"      
+  - url: ../images/sketch_portfolio/act_lafd.JPG
+    image_path: ../images/sketch_portfolio/act_lafd.JPG
+    title: "Altadena Crest Trail, Altadena, USA, 2020 (Ink and Watercolor)"      
 
-  # - url: ../images/sketch_portfolio/gudi_padwa.JPG
-  #   image_path: ../images/sketch_portfolio/gudi_padwa.JPG
-  #   title: "Gudi Padwa, 2020 (Direct Watercolor)"     
+  - url: ../images/sketch_portfolio/gudi_padwa.JPG
+    image_path: ../images/sketch_portfolio/gudi_padwa.JPG
+    title: "Gudi Padwa, 2020 (Direct Watercolor)"     
 
-  # - url: ../images/sketch_portfolio/netaji_pencil.JPG
-  #   image_path: ../images/sketch_portfolio/netaji_pencil.JPG
-  #   title: "Subhash Chandra Bose, 2002 (Graphite)"             
+  - url: ../images/sketch_portfolio/netaji_pencil.JPG
+    image_path: ../images/sketch_portfolio/netaji_pencil.JPG
+    title: "Subhash Chandra Bose, 2002 (Graphite)"             
 
-  # - url: ../images/sketch_portfolio/imaginary_bright_landscape.JPG
-  #   image_path: ../images/sketch_portfolio/imaginary_bright_landscape.JPG
-  #   title: "An Imaginary Landscape, 2020 (Direct Watercolor)"     
+  - url: ../images/sketch_portfolio/imaginary_bright_landscape.JPG
+    image_path: ../images/sketch_portfolio/imaginary_bright_landscape.JPG
+    title: "An Imaginary Landscape, 2020 (Direct Watercolor)"     
 
-  # - url: ../images/sketch_portfolio/nude_pencil.JPG
-  #   image_path: ../images/sketch_portfolio/nude_pencil.JPG
-  #   title: "Nude, 2005 (Graphite)"     
+  - url: ../images/sketch_portfolio/nude_pencil.JPG
+    image_path: ../images/sketch_portfolio/nude_pencil.JPG
+    title: "Nude, 2005 (Graphite)"     
 
-  # - url: ../images/sketch_portfolio/nude.JPG
-  #   image_path: ../images/sketch_portfolio/nude.JPG
-  #   title: "Nude, 2020 (Direct Watercolor)"   
+  - url: ../images/sketch_portfolio/nude.JPG
+    image_path: ../images/sketch_portfolio/nude.JPG
+    title: "Nude, 2020 (Direct Watercolor)"   
 
-  # - url: ../images/sketch_portfolio/nose.jpg
-  #   image_path: ../images/sketch_portfolio/nose.jpg
-  #   title: "Nose, 2020 (Direct Watercolor)"      
+  - url: ../images/sketch_portfolio/nose.jpg
+    image_path: ../images/sketch_portfolio/nose.jpg
+    title: "Nose, 2020 (Direct Watercolor)"      
 
-  # - url: ../images/sketch_portfolio/parvati.jpg
-  #   image_path: ../images/sketch_portfolio/parvati.jpg
-  #   title: "Parvati, Pune, India, 2021 (Plein Air, Direct Watercolor)"     
+  - url: ../images/sketch_portfolio/parvati.jpg
+    image_path: ../images/sketch_portfolio/parvati.jpg
+    title: "Parvati, Pune, India, 2021 (Plein Air, Direct Watercolor)"     
 
-  # - url: ../images/sketch_portfolio/eaton_canyon.JPG
-  #   image_path: ../images/sketch_portfolio/eaton_canyon.JPG
-  #   title: "Eaton Canyon Trail, Pasadena, USA, 2019 (Direct Watercolor)"    
+  - url: ../images/sketch_portfolio/eaton_canyon.JPG
+    image_path: ../images/sketch_portfolio/eaton_canyon.JPG
+    title: "Eaton Canyon Trail, Pasadena, USA, 2019 (Direct Watercolor)"    
 
-  # - url: ../images/sketch_portfolio/squiggy_tree.JPG
-  #   image_path: ../images/sketch_portfolio/squiggy_tree.JPG
-  #   title: "Squiggy Yucca, El Prieto Loop, Altadena, USA, 2020 (Direct Watercolor)"      
+  - url: ../images/sketch_portfolio/squiggy_tree.JPG
+    image_path: ../images/sketch_portfolio/squiggy_tree.JPG
+    title: "Squiggy Yucca, El Prieto Loop, Altadena, USA, 2020 (Direct Watercolor)"      
 
-  # - url: ../images/sketch_portfolio/towel_ink.JPG
-  #   image_path: ../images/sketch_portfolio/towel_ink.JPG
-  #   title: "Towel, 2019 (Plein Air, Direct Ink)"     
+  - url: ../images/sketch_portfolio/towel_ink.JPG
+    image_path: ../images/sketch_portfolio/towel_ink.JPG
+    title: "Towel, 2019 (Plein Air, Direct Ink)"     
 
-  # - url: ../images/sketch_portfolio/winter_alina_kubrial.JPG
-  #   image_path: ../images/sketch_portfolio/winter_alina_kubrial.JPG
-  #   title: "Winter (Alina Kubrial), 2019 (Direct Watercolor)"   
+  - url: ../images/sketch_portfolio/winter_alina_kubrial.JPG
+    image_path: ../images/sketch_portfolio/winter_alina_kubrial.JPG
+    title: "Winter (Alina Kubrial), 2019 (Direct Watercolor)"   
 
-  # - url: ../images/sketch_portfolio/ramnadi.JPG
-  #   image_path: ../images/sketch_portfolio/ramnadi.JPG
-  #   title: "Ramnadi, Pune, 2020 (Direct Watercolor)"      
+  - url: ../images/sketch_portfolio/ramnadi.JPG
+    image_path: ../images/sketch_portfolio/ramnadi.JPG
+    title: "Ramnadi, Pune, 2020 (Direct Watercolor)"    
+    
+    
   # # - url: ../images/photo_portfolio/.jpg
   # #   image_path: ../images/photo_portfolio/.jpg
   # #   title: ""     
