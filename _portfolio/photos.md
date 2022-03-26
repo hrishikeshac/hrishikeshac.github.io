@@ -117,33 +117,33 @@ gallery:
     image_path: ../images/sketch_portfolio/yellowstone_waterfall.jpg
     title: "The Grand Canyon of Yellowstone, Yellowstone National Park, Wyoming, USA, 2020 (Ink and Watercolor)" 
   
-  # - url: ../images/sketch_portfolio/raspberry.JPG
-  #   image_path: ../images/sketch_portfolio/raspberry.JPG
-  #   title: "Raspberry, 2020 (Direct Watercolor)"
+  - url: ../images/sketch_portfolio/raspberry.JPG
+    image_path: ../images/sketch_portfolio/raspberry.JPG
+    title: "Raspberry, 2020 (Direct Watercolor)"
   
-  # - url: ../images/sketch_portfolio/tendulkar.jpeg
-  #   image_path: ../images/sketch_portfolio/tendulkar.jpeg
-  #   title: "Sachin Tendulkar, 2014 (Ink and Watercolor)"
+  - url: ../images/sketch_portfolio/tendulkar.jpeg
+    image_path: ../images/sketch_portfolio/tendulkar.jpeg
+    title: "Sachin Tendulkar, 2014 (Ink and Watercolor)"
   
-  # - url: ../images/sketch_portfolio/diwali_pencil.JPG
-  #   image_path: ../images/sketch_portfolio/diwali_pencil.JPG
-  #   title: "Diwali, 2018 (Graphite)"
+  - url: ../images/sketch_portfolio/diwali_pencil.JPG
+    image_path: ../images/sketch_portfolio/diwali_pencil.JPG
+    title: "Diwali, 2018 (Graphite)"
   
-  # - url: ../images/sketch_portfolio/buddha_nepal.JPG
-  #   image_path: ../images/sketch_portfolio/buddha_nepal.JPG
-  #   title: "Swayambhu Stupa, Kathmandu, Nepal, 2019 (Plein Air, Direct Watercolor)"    
+  - url: ../images/sketch_portfolio/buddha_nepal.JPG
+    image_path: ../images/sketch_portfolio/buddha_nepal.JPG
+    title: "Swayambhu Stupa, Kathmandu, Nepal, 2019 (Plein Air, Direct Watercolor)"    
   
-  # - url: ../images/sketch_portfolio/bear_peak.jpg
-  #   image_path: ../images/sketch_portfolio/bear_peak.jpg
-  #   title: "Bear Peak, Boulder, Colorado, 2019 (Plein Air, Ink and Watercolor)"
+  - url: ../images/sketch_portfolio/bear_peak.jpg
+    image_path: ../images/sketch_portfolio/bear_peak.jpg
+    title: "Bear Peak, Boulder, Colorado, 2019 (Plein Air, Ink and Watercolor)"
   
-  # - url: ../images/sketch_portfolio/mt_humphreys.JPG
-  #   image_path: ../images/sketch_portfolio/mt_humphreys.JPG
-  #   title: "View from Mt Humphreys, Sierra Nevada, California, USA, 2019 (Ink and Watercolor)"      
+  - url: ../images/sketch_portfolio/mt_humphreys.JPG
+    image_path: ../images/sketch_portfolio/mt_humphreys.JPG
+    title: "View from Mt Humphreys, Sierra Nevada, California, USA, 2019 (Ink and Watercolor)"      
 
-  # - url: ../images/sketch_portfolio/the_eye_jtree.JPG
-  #   image_path: ../images/sketch_portfolio/the_eye_jtree.JPG
-  #   title: "The Eye, Joshua Tree National Park, California, USA, 2020 (Plein Air, Direct Watercolor)"      
+  - url: ../images/sketch_portfolio/the_eye_jtree.JPG
+    image_path: ../images/sketch_portfolio/the_eye_jtree.JPG
+    title: "The Eye, Joshua Tree National Park, California, USA, 2020 (Plein Air, Direct Watercolor)"      
     
   # - url: ../images/sketch_portfolio/eccho_cliffs.JPG
   #   image_path: ../images/sketch_portfolio/eccho_cliffs.JPG
