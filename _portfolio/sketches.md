@@ -3,10 +3,6 @@ title: ""
 # "These images are free to use for personal and non-profit use. To download high resolution, right click on the image and select 'Save Image As'."
 gallery:
 
-  - url: ../images/photo_portfolio/160726DSC_7023-Edit.jpg
-    image_path: ../images/photo_portfolio/160726DSC_7023-Edit.jpg
-    title: "Conifers in the mist, Seward, Alaska, USA"
-    
   - url: ../images/sketch_portfolio/yellowstone_waterfall.jpg
     image_path: ../images/sketch_portfolio/yellowstone_waterfall.jpg
     title: "The Grand Canyon of Yellowstone, Yellowstone National Park, Wyoming, USA, 2020 (Ink and Watercolor)" 
@@ -67,17 +63,17 @@ gallery:
     image_path: ../images/sketch_portfolio/the_capitol.JPG
     title: "The Capitol, Washington D.C., USA, 2019 (Plein Air, Direct Watercolor)"
   
-  - url: ../images/sketch_portfolio/pan_sleeping_beauty.JPG
-    image_path: ../images/sketch_portfolio/pan_sleeping_beauty.JPG
-    title: "Pantalaimon sleeping, 2019 (Plein Air, Direct Watercolor)"
+  - url: ../images/sketch_portfolio/nude_pencil.JPG
+    image_path: ../images/sketch_portfolio/nude_pencil.JPG
+    title: "Nude, 2005 (Graphite)"   
   
   - url: ../images/sketch_portfolio/kaweah.JPG
     image_path: ../images/sketch_portfolio/kaweah.JPG
     title: "The Kaweah massif, Sierra Nevada, California, USA, 2020 (Watercolor)"
   
   - url: ../images/sketch_portfolio/DC_lincoln_memorial_watercolors.jpeg
-  image_path: ../images/sketch_portfolio/DC_lincoln_memorial_watercolors.jpeg
-  title: "The View from the Lincoln Memorial, Washington D. C., USA, 2019 (Watercolor)"     
+    image_path: ../images/sketch_portfolio/DC_lincoln_memorial_watercolors.jpeg
+    title: "The View from the Lincoln Memorial, Washington D. C., USA, 2019 (Watercolor)"     
 
   - url: ../images/sketch_portfolio/backbone_fine_brush.JPG
     image_path: ../images/sketch_portfolio/backbone_fine_brush.JPG
@@ -103,9 +99,9 @@ gallery:
     image_path: ../images/sketch_portfolio/imaginary_bright_landscape.JPG
     title: "An Imaginary Landscape, 2020 (Direct Watercolor)"     
 
-  - url: ../images/sketch_portfolio/nude_pencil.JPG
-    image_path: ../images/sketch_portfolio/nude_pencil.JPG
-    title: "Nude, 2005 (Graphite)"     
+  - url: ../images/sketch_portfolio/pan_sleeping_beauty.JPG
+    image_path: ../images/sketch_portfolio/pan_sleeping_beauty.JPG
+    title: "Pantalaimon sleeping, 2019 (Plein Air, Direct Watercolor)"
 
   - url: ../images/sketch_portfolio/nude.JPG
     image_path: ../images/sketch_portfolio/nude.JPG
