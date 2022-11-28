@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome to my website!
 
-I am a Research Scientist at the Global Institute for Water Security, University of Saskatchewan, Canada, and a Fellow at the Centre for Earth and Environment, FLAME University, India. 
+I am an earth system scientist, currently a short-term consultant with the World Bank a Fellow at the Centre for Sustainability, Environment, and Climate Change, FLAME University, India. 
 
-My research interests comprise
+My research interests mainly comprise of
 1. studying large-scale water cycle changes,
 2. investigating their climatic- and human- causes, and
 3. understanding the implications of these changes on other spheres of the earth system, such as the ocean and the cryosphere, as well as the society and ecosystems.  
