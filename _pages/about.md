@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am an earth system scientist, currently a Consultant with the World Bank a Fellow at the Centre for Sustainability, Environment, and Climate Change, FLAME University, India. 
+I am an earth system scientist, currently a Consultant with the World Bank and a Fellow at the Centre for Sustainability, Environment, and Climate Change, FLAME University, India. 
 
 My research interests mainly comprise of
 1. studying large-scale water cycle changes,
