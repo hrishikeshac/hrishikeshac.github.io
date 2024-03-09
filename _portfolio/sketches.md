@@ -63,9 +63,9 @@ gallery:
     image_path: ../images/sketch_portfolio/the_capitol.JPG
     title: "The Capitol, Washington D.C., USA, 2019 (Plein Air, Direct Watercolor)"
   
-  - url: ../images/sketch_portfolio/nude_pencil.JPG
-    image_path: ../images/sketch_portfolio/nude_pencil.JPG
-    title: "Nude, 2005 (Graphite)"   
+ # - url: ../images/sketch_portfolio/nude_pencil.JPG
+  #  image_path: ../images/sketch_portfolio/nude_pencil.JPG
+   # title: "Nude, 2005 (Graphite)"   
   
   - url: ../images/sketch_portfolio/kaweah.JPG
     image_path: ../images/sketch_portfolio/kaweah.JPG
