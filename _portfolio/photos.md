@@ -14,6 +14,10 @@ gallery:
     image_path: ../images/sketch_portfolio/yellowstone_waterfall.jpg
     title: "The Grand Canyon of Yellowstone, Yellowstone National Park, Wyoming, USA, 2020 (Ink and Watercolor)"
 
+  - url: ../images/sketch_portfolio/raspberry.JPG
+    image_path: ../images/sketch_portfolio/raspberry.JPG
+    title: "Raspberry, 2020 (Direct Watercolor)"
+
   - url: ../images/photo_portfolio/25084DE7-5B96-4023-B29E-F1B4DE1BC77F.jpg
     image_path: ../images/photo_portfolio/25084DE7-5B96-4023-B29E-F1B4DE1BC77F.jpg
     title: "Downtown Los Angeles during Sunset, California, USA"
