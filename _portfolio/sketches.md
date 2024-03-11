@@ -2,12 +2,6 @@
 title: ""
 # "These images are free to use for personal and non-profit use. To download high resolution, right click on the image and select 'Save Image As'."
 gallery:
-
-
-  
-  - url: ../images/sketch_portfolio/raspberry.JPG
-    image_path: ../images/sketch_portfolio/raspberry.JPG
-    title: "Raspberry, 2020 (Direct Watercolor)"
   
   - url: ../images/sketch_portfolio/tendulkar.jpeg
     image_path: ../images/sketch_portfolio/tendulkar.jpeg
