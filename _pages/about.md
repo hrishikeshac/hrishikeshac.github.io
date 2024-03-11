@@ -7,19 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Thanks for stopping by!
 
-Welcome to my website!
+Dr. Hrishikesh Arvind Chandanpurkar is an Earth System Scientist working as a consultant to the World Bank, Washington D.C., USA. He has a Ph.D. in Earth System Sciences from University of California, Irvine, an M.Sc. in Environmental Sciences and a B.Sc. in Geology from University of Pune, India. Previously, he has conducted research at NASA / Caltech Jet Propulsion Laboratory (Pasadena, USA), the Department of Aerospace Engineering at University of Colorado, Boulder, USA, and Global Institute for Water Security, Saskatoon, Canada. His research interests mainly comprise studying water cycle changes at multiple spatiotemporal scales, investigating their climatic- and human- causes and their implications for socio-ecological and climate systems. For the past two years, his research has focused on identifying hotspots of compromised water security at global and regional scales, and leading a transdisciplinary research on food-energy-water nexus at municipal scales. He is one of the main contributors to an upcoming World Bank flagship report on the observed changes in global water resources and their implications for water security and the lead author of the associated technical report. He has taught several courses at undergraduate and graduate level in earth sciences in the US and in India.
 
-I am an earth system scientist, currently a Consultant with the World Bank and a Fellow at the Centre for Sustainability, Environment, and Climate Change, FLAME University, India. 
-
-My research interests mainly comprise of
-1. studying large-scale water cycle changes,
-2. investigating their climatic- and human- causes, and
-3. understanding the implications of these changes on other spheres of the earth system, such as the ocean and the cryosphere, as well as the society and ecosystems.  
-
-Through my research, I attempt to address questions such as ‘How does land hydrology influence the sea level?’, 'What would intensification of the water cycle look like?', ‘How does climate variability influence land water storage?’, and ‘How big are the human-driven hydrologic changes in the context of natural climate variability?’. I combine multiple approaches such as remote sensing, field observations, and climate-model simulations and outputs to address these questions. 
-
-The inspiration for my research comes from my love and appreciation of the natural world around me. I love being in the remote backcountry, sometimes doing nothing, occasionally watercolor painting, and other times doing a range of activities (such as trail running, mountain biking, hiking, backpacking, rock climbing, mountaineering, and backcountry skiing) that provide me with an endless supply of Type 2 fun. 
+The inspiration for his research comes from his love and appreciation of the natural world around him. He loves being in the remote backcountry, sometimes doing nothing, occasionally painting or photographing the landscapes, and other times doing a range of activities (such as trail running, mountain biking, hiking, backpacking, rock climbing, mountaineering, and backcountry skiing) that provide him with an endless supply of Type 2 fun. 
 
 
 <object data="/files/cv_overleaf.pdf" type='application/pdf'></object>
